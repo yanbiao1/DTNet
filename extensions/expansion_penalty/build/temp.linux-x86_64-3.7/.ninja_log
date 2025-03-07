@@ -1,0 +1,3 @@
+# ninja log v5
+1	5651	1642122066861901889	/home/liuqing/Workspace/Python/PointCloudCompletion/MSN-Point-Cloud-Completion/expansion_penalty/build/temp.linux-x86_64-3.7/expansion_penalty_cuda.o	97428707671a4cfc
+0	10712	1642122071921809207	/home/liuqing/Workspace/Python/PointCloudCompletion/MSN-Point-Cloud-Completion/expansion_penalty/build/temp.linux-x86_64-3.7/expansion_penalty.o	65600c6c86626c65

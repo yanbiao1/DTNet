@@ -1,0 +1,5 @@
+# ninja log v5
+0	11225	1643266846812069982	/home/liuqing/Workspace/Python/Work/GRNet/extensions/cubic_feature_sampling/build/temp.linux-x86_64-3.7/cubic_feature_sampling_cuda.o	5f5205224bcfbde8
+0	28239	1643266863827778099	/home/liuqing/Workspace/Python/Work/GRNet/extensions/cubic_feature_sampling/build/temp.linux-x86_64-3.7/cubic_feature_sampling.o	aa104e53f5dda27e
+0	9209	1673106112251683184	/home/scut/workspace/liuqing/workspace/PCC/extensions/cubic_feature_sampling/build/temp.linux-x86_64-3.7/cubic_feature_sampling_cuda.o	bae664e848a3d9d5
+0	17732	1673106120775624279	/home/scut/workspace/liuqing/workspace/PCC/extensions/cubic_feature_sampling/build/temp.linux-x86_64-3.7/cubic_feature_sampling.o	4730d0f34aa3905f

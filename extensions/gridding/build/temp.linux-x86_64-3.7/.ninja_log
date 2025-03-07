@@ -1,0 +1,7 @@
+# ninja log v5
+0	11935	1643266935358544937	/home/liuqing/Workspace/Python/Work/GRNet/extensions/gridding/build/temp.linux-x86_64-3.7/gridding_cuda.o	6562c5971a8821ef
+0	32611	1643266956038186733	/home/liuqing/Workspace/Python/Work/GRNet/extensions/gridding/build/temp.linux-x86_64-3.7/gridding.o	b619983b156577e
+0	34324	1643266957750157048	/home/liuqing/Workspace/Python/Work/GRNet/extensions/gridding/build/temp.linux-x86_64-3.7/gridding_reverse.o	21ee3d4d7f9607ef
+0	9808	1673106075359954308	/home/scut/workspace/liuqing/workspace/PCC/extensions/gridding/build/temp.linux-x86_64-3.7/gridding_cuda.o	2d2cec6bb68adae
+0	19004	1673106084559884176	/home/scut/workspace/liuqing/workspace/PCC/extensions/gridding/build/temp.linux-x86_64-3.7/gridding.o	6db0b0f6c6355898
+0	19564	1673106085115879991	/home/scut/workspace/liuqing/workspace/PCC/extensions/gridding/build/temp.linux-x86_64-3.7/gridding_reverse.o	b82c0f50dc4598ae
